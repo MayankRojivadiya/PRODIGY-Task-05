@@ -15,7 +15,6 @@ Analyze traffic accident data to identify patterns based on time of day, weather
 
 ## Technologies Used
 - Python (Pandas, Matplotlib, Seaborn, Folium)
-- Jupyter Notebook
 
 ## Output Files
 - `Traffic_Accidents_Analysis.ipynb`
